@@ -1,0 +1,26 @@
+{
+  "name": "pontomais-calc",
+  "version": "1.0.0",
+  "description": "A CLI tool for calculating Pontomais hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pontomais-calc": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaerimichi/pontomais-calc.git"
+  },
+  "keywords": [
+    "pontomais",
+    "punch clock"
+  ],
+  "author": {
+    "name": "Gabriel Rimes",
+    "email": "jivagorimes@gmail.com",
+    "url": "https://gabrielrimes.net"
+  },
+  "license": "MIT"
+}
