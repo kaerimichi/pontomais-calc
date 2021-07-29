@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { readFileSync } = require('fs')
 const { get } = require('axios')
 const { compute } = require('zaman-statistics-generator')
